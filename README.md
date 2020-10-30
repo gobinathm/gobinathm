@@ -1,14 +1,13 @@
-#### Hello there! 👋
-
+#### Hello there! 👋 
 I'm Gobinath Mallaiyan and a software architect specialized in building web/mobile/cloud solutions employing open-source frameworks.  I'm from India and now a resident of [The Garden State][1]. I still enjoy working in PHP-based framework (ya its legacy for others but my first love :revolving_hearts:), additionally I like to build solutions in JAMStack, GraphQL, and Cloud Technologies. I have a passion for learning and sharing my knowledge with others. , I'm a passionate photographer and rookie runner/cyclist.
 
-## Find me around the web 🌎: <a href="https://github.com/gobinathm"><img align="right" width="250" height="250" src="https://avatars0.githubusercontent.com/u/450222?s=460&u=b1663933cd0cf891755bb16717b8e8087e948367&v=4"></a>
-- Some time I scribble [@Medium][2] :black_nib:
-- Caputring moments [500px][3] [Instagram][4] :camera:
-- A [Rookie runner / Cyclist][5] :runner: :bicyclist:
+## Find me around the web 🌎: <a href="https://github.com/gobinathm"><img align="right" width="250" height="250" src="src/Me-Memoji.png"></a>
+- Some time I scribble [@Medium][2], thinking that I'm sharing Knowledge :black_nib:
+- When I'm not behind the keyboard, I'm behind lens Freezing Memories [500px][3] [Instagram][4] :camera:
+- A [Rookie runner / Cyclist][5] with a focus to become fit :runner: :bicyclist:
 - Say Hi [LinkedIn][6] 💼
-- Share my thoughts [twitter][7] :bird:
-- Webmaster @ [drupal.org][8] :droplet:
+- Ranting at [twitter][7] :bird:
+- Webmaster for [drupal.org][8] :droplet:
 
 
 
