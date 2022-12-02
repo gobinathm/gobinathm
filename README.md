@@ -1,5 +1,5 @@
 #### Hello there! 👋 
-I'm Gobinath Mallaiyan and a software architect specialized in building web/mobile/cloud solutions employing open-source frameworks.  I'm from India and now a resident of [The Garden State][1]. I still enjoy working in PHP-based framework (ya its legacy for others but my first love :revolving_hearts:), additionally I like to build solutions in JAMStack, GraphQL, and Cloud Technologies. I have a passion for learning and sharing my knowledge with others. , I'm a passionate photographer and rookie runner/cyclist.
+I'm Gobinath Mallaiyan and a software architect specialized in building web/mobile/cloud solutions employing open-source frameworks.  I'm from India and now a resident of [Ontario][1]. I still enjoy working in PHP-based framework (ya its legacy for others but my first love :revolving_hearts:), additionally I like to build solutions in JAMStack, GraphQL, and Cloud Technologies. I have a passion for learning and sharing my knowledge with others. , I'm a passionate photographer and rookie runner/cyclist.
 
 ## Find me around the web 🌎: <a href="https://github.com/gobinathm"><img align="right" width="250" height="250" src="src/Me-Memoji.png"></a>
 - Some time I scribble [@Medium][2], thinking that I'm sharing Knowledge :black_nib:
@@ -15,7 +15,7 @@ I'm Gobinath Mallaiyan and a software architect specialized in building web/mobi
 
 <!-- Links -->
 
-[1]: https://www.netstate.com/states/intro/nj_intro.htm
+[1]: https://www.britannica.com/place/Ontario-province
 [2]: https://medium.com/@gobinathm/about
 [3]: https://500px.com/p/gobinathm
 [4]: https://www.instagram.com/gobinathm/
