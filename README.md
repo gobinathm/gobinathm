@@ -29,13 +29,22 @@ I'm Gobinath Mallaiyan and a software architect specialized in building web/mobi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...-->
+- 🌱 I’m currently learning Rust ...
+<!--- 👯 I’m looking to collaborate on ...-->
+<!--- - 🤔 I’m looking for help with ...-->
+- 💬 Ask me about Drupal / JamStack / Web Security
+- 📫 How to reach me: me@gobinath.com
+- 😄 Pronouns: he/him/his 
+<!--- - ⚡ Fun fact: -->
 
+
+## :trophy: Git profile Trophies 
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobinathm&no-bg=true&row=1&column=6&theme=onedark" alt="gobinathm" /></a> </p> <br>
+
+## :part_alternation_mark: Stats
+![Gobinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gobinathm&show_icons=true&count_private=true&include_all_commits=true) 
+
+## :computer: Languages
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathm&show_icons=true&layout=compact&hide_progress=true) 
