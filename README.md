@@ -41,6 +41,7 @@ I lead cross-functional programs in AI/ML and cloud transformation at scale, bri
 [![GenAI Fundamentals](https://img.shields.io/badge/Databricks-GenAI%20Fundamentals-FF3621?style=flat&logo=databricks&logoColor=white)](https://credentials.databricks.com/cd97d9cd-cf21-44ad-9907-c369ea4a7c4c#acc.nRIqpPrE)
 [![Certified ScrumMaster](https://img.shields.io/badge/Scrum%20Alliance-CSM-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
 [![INSEAD](https://img.shields.io/badge/INSEAD-Strategic%20Transformation-00573F?style=flat)](#)
+[![Microsoft AI Transformation Leader](https://img.shields.io/badge/Microsoft-AI%20Transformation%20Leader-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/67271D9ACA6E19F5?sharingId=DF3DC239EE30F0A4)
 [![Acquia Developer](https://img.shields.io/badge/Acquia-Certified%20Developer-0678BE?style=flat&logo=drupal&logoColor=white)](https://certification.acquia.com/person/community/gobinath-mallaiyan)
 
 ---
@@ -79,8 +80,3 @@ AI/ML strategy, Cloud Architecture, Program Management, Digital Transformation, 
 - **Student Mentor** (2022-Present) — Guiding CS students from classroom to deployment
 - **Drupal Mumbai Organizer** (2015-2017) — Built local tech community through meetups
 
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gobinathm&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
