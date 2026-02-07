@@ -1,9 +1,12 @@
+<p align="center">
+  <a href="https://gobinath.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Technical+Program+Manager;AI-First+Leadership+%7C+Cloud+Architecture;23+Years+Building+Scalable+Systems;Healthcare+%26+Enterprise+Tech" alt="Typing SVG" />
+  </a>
+</p>
+
 ### Hi, I'm Gobinath Mallaiyan
 
 **Technical Program Manager** | Toronto, Canada
-
-23 years building scalable systems in Healthcare & Enterprise Tech.
-AI-First Leadership | Cloud Architecture | Digital Transformation.
 
 <a href="https://gobinath.com"><img align="right" width="250" height="250" src="src/Me-Memoji.png"></a>
 
@@ -42,6 +45,16 @@ I lead cross-functional programs in AI/ML and cloud transformation at scale, bri
 
 ---
 
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,cloudflare,react,nodejs,ts,js,python,php,graphql,astro,rust&theme=dark&perline=15" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
 ### What I Work With
 
 **Leadership & Strategy:** Program Management, Solutions Architecture, Enterprise Architecture, Agile & Scrum, Stakeholder Management
@@ -68,14 +81,6 @@ AI/ML strategy, Cloud Architecture, Program Management, Digital Transformation, 
 
 ---
 
-## :trophy: GitHub Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobinathm&no-bg=true&row=1&column=6&theme=onedark" alt="gobinathm" /></a> </p>
-
-## :chart_with_upwards_trend: Stats
-
-![Gobinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=gobinathm&show_icons=true&count_private=true&include_all_commits=true)
-
-## :computer: Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathm&show_icons=true&layout=compact&hide_progress=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gobinathm&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
