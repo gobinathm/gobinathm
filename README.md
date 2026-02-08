@@ -13,7 +13,7 @@
 I lead cross-functional programs in AI/ML and cloud transformation at scale, bridging complex engineering challenges with strategic business objectives. Passionate about mentoring, open source, and sharing knowledge.
 
 - :globe_with_meridians: Portfolio & more at **[gobinath.com](https://gobinath.com)**
-- :books: Free certification study notes at **[notes.gobinath.com](https://notes.gobinath.com)**
+- :books: My certification study notes at **[notes.gobinath.com](https://notes.gobinath.com)**
 - :black_nib: I write on [Medium](https://medium.com/@gobinathm)
 - :camera: Photography on [500px](https://500px.com/p/gobinathm) and [Instagram](https://www.instagram.com/gobinathm/)
 - :runner: Running & cycling on [Strava](https://www.strava.com/athletes/10286114)
