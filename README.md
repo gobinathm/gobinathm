@@ -37,10 +37,13 @@ I lead cross-functional programs in AI/ML and cloud transformation at scale, bri
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/4f172763-a79b-44af-9439-e30871aacbb5/public_url)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/ab4d4959-37b1-41ac-86f0-4a4886abd9e4/public_url)
 [![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/1D482C674772339)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/2237B962A36FD6D3?sharingId=DF3DC239EE30F0A4)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/E7D2A8584DC72468?sharingId=DF3DC239EE30F0A4)
 [![LeanIX EAM](https://img.shields.io/badge/SAP-LeanIX%20EAM-0FAAFF?style=flat&logo=sap&logoColor=white)](https://verify.skilljar.com/c/9v7tz4m9ydhc)
 [![GenAI Fundamentals](https://img.shields.io/badge/Databricks-GenAI%20Fundamentals-FF3621?style=flat&logo=databricks&logoColor=white)](https://credentials.databricks.com/cd97d9cd-cf21-44ad-9907-c369ea4a7c4c#acc.nRIqpPrE)
 [![Certified ScrumMaster](https://img.shields.io/badge/Scrum%20Alliance-CSM-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
 [![INSEAD](https://img.shields.io/badge/INSEAD-Strategic%20Transformation-00573F?style=flat)](#)
+[![Microsoft AI Business Leader](https://img.shields.io/badge/Microsoft-AI%20Business%20Leader-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/55756E5374B9F0DD?sharingId=DF3DC239EE30F0A4)
 [![Microsoft AI Transformation Leader](https://img.shields.io/badge/Microsoft-AI%20Transformation%20Leader-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/67271D9ACA6E19F5?sharingId=DF3DC239EE30F0A4)
 [![Acquia Developer](https://img.shields.io/badge/Acquia-Certified%20Developer-0678BE?style=flat&logo=drupal&logoColor=white)](https://certification.acquia.com/person/community/gobinath-mallaiyan)
 
@@ -79,4 +82,3 @@ AI/ML strategy, Cloud Architecture, Program Management, Digital Transformation, 
 - **Drupal Project Mentor** (2014-2024) — Helped developers start their open source journey
 - **Student Mentor** (2022-Present) — Guiding CS students from classroom to deployment
 - **Drupal Mumbai Organizer** (2015-2017) — Built local tech community through meetups
-
