@@ -36,6 +36,7 @@ I lead cross-functional programs in AI/ML and cloud transformation at scale, bri
 
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/4f172763-a79b-44af-9439-e30871aacbb5/public_url)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/ab4d4959-37b1-41ac-86f0-4a4886abd9e4/public_url)
+[![GitHub Advanced Security](https://img.shields.io/badge/GitHub-Advanced%20Security-181717?style=flat&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/405C37D72F2C5594?sharingId=DF3DC239EE30F0A4)
 [![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/1D482C674772339)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/2237B962A36FD6D3?sharingId=DF3DC239EE30F0A4)
 [![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/gobinathm/E7D2A8584DC72468?sharingId=DF3DC239EE30F0A4)
